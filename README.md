@@ -1,6 +1,7 @@
 <h1>Hi, I'm Aravind! <br/><a href="https://www.linkedin.com/in/aravindb26/">Cybersecurity Researcher</a>, <a href="https://twitter.com/nanicyb">Bug Bounty Hunter</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+- <h2>👨‍💻 Cyber Security Projects:</h2>
+
   - [Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://github.com/aravindb26/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
