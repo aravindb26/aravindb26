@@ -5,7 +5,6 @@
   - [Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://github.com/aravindb26/Sentinel-Lab)
   - [Active Directory Bulk User Creation](https://github.com/aravindb26/active_directory_bulk)
   - [FIM (File Integrity Monitor)](https://github.com/aravindb26/File-Integrity-Monitor/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2> 🤳 Connect with me:</h2>
 
