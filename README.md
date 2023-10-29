@@ -3,8 +3,8 @@
 - <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://github.com/aravindb26/Sentinel-Lab)
+  - [Active Directory Bulk User Creation](https://github.com/aravindb26/active_directory_bulk)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2> 🤳 Connect with me:</h2>
