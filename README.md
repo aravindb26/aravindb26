@@ -11,8 +11,8 @@
 - <h2>📃 Certifications </h2>
 
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/6bdbe23a-f8fb-4d8d-9a58-22e11e84fe8b/linked_in_profile)
-  - [eJPT](https://certs.ine.com/01f59aa7-2454-4b19-a1b9-30660098fff8)
-  - [ICCA - INE Certified Cloud Associate](https://certs.ine.com/8619b4ce-e839-468b-8f5e-5d3fac90b3ff)
+  - [eJPT](https://certs.ine.com/01f59aa7-2454-4b19-a1b9-30660098fff8#gs.0zgt1g)
+  - [ICCA - INE Certified Cloud Associate](https://certs.ine.com/8619b4ce-e839-468b-8f5e-5d3fac90b3ff#gs.0zgsns)
   
 
 <h2> 🤳 Connect with me:</h2>
