@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aravind! <br/><a href="https://www.linkedin.com/in/aravindb26/">Cybersecurity Researcher</a>, <a href="https://twitter.com/nanicyb">Bug Bounty Hunter</a></h1>
+<h1>Hi, I'm Aravind! <br/><a href="https://www.linkedin.com/in/aravindb26/">Cybersecurity Researcher</a>, <a href="https://x.com/nanicyb_">Bug Bounty Hunter</a></h1>
 
 - <h2>👨‍💻 Cyber Security Projects:</h2>
 
