@@ -2,7 +2,7 @@
 
 ## 🏆 Industry Recognition
 
-I'm grateful to have been publicly recognized by several organizations for responsible vulnerability disclosure and security research.
+I'm grateful to have been publicly recognized by several organizations for responsible vulnerability disclosure and security research. Here are a few of those public recognitions.
 
 * 🍎 **Apple Security Acknowledgements**
 
