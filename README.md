@@ -1,5 +1,29 @@
 <h1>Hi, I'm Aravind! <br/><a href="https://www.linkedin.com/in/aravindb26/">Cybersecurity Researcher</a>, <a href="https://x.com/nanicyb_">Bug Bounty Hunter</a></h1>
 
+## 🏆 Industry Recognition
+
+I'm grateful to have been publicly recognized by several organizations for responsible vulnerability disclosure and security research.
+
+- 🍎 **Apple Security Acknowledgements**
+  - [Apple Security Acknowledgements (2023)](https://support.apple.com/en-ae/102812)
+  - [Apple Security Acknowledgements (2025)](https://support.apple.com/en-me/121239)
+
+- 🔵 **Google Bug Hunters**
+  - [Bug Hunters Profile & Awards](https://bughunters.google.com/profile/9e64d08e-fa0d-4db2-b6d6-02c65e88f19c/awards)
+  - [Google Bug Hunters – Honorable Mentions](https://bughunters.google.com/leaderboard/honorable-mentions)
+
+- 🛒 **eBay Security Researcher Hall of Fame**
+  - [View Recognition](https://pages.ebay.com/securitycenter/archived-researchers.html)
+
+- 📺 **BBC Security Acknowledgements**
+  - [View Recognition](https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements)
+
+- 🏅 **Additional Public Recognition**
+  - [Apple Bug Bounty Recognition](https://www.linkedin.com/feed/update/urn:li:activity:7143587864172199936/)
+  - [Microsoft Hall of Fame](https://www.linkedin.com/posts/aravindb26_bugbounty-microsoft-hof-activity-7313949685067522050-IErC/)
+  - [Google Bug Hunters Recognition](https://www.linkedin.com/posts/aravindb26_bugbounty-cybersecurity-halloffame-activity-7278275854218969088-rbte/)
+  - [Microsoft Security Recognition](https://www.linkedin.com/posts/aravindb26_bugbounty-cybersecurity-microsoft-activity-7306647987332468737-1CqI/)
+
 - <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://github.com/aravindb26/Sentinel-Lab)
