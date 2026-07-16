@@ -1,13 +1,14 @@
 <h1>Hi, I'm Aravind</h1>
 
-Security researcher and bug bounty hunter focused on responsible vulnerability disclosure, source-code review, Web3 security audits, and practical exploit validation.
+Security researcher and bug bounty hunter focused on responsible disclosure, web application/API security, source-code review, and growing Web3 smart-contract audit work.
 
 Publicly acknowledged by Apple, Google, Microsoft, eBay, BBC, and other organizations for responsible security research.
 
 ## Current Focus
 
-- Smart contract and Web3 protocol security review
-- Web application and source-code security auditing
+- Web application, API, Android, and host security
+- Source-code security review
+- Smart contract and Web3 audit practice
 - Vulnerability research with strong evidence and reproducible impact
 - Responsible disclosure through bug bounty and security programs
 
